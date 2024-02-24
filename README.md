@@ -1,4 +1,4 @@
-# Gemini-QA-Bot-
+# Gemini-QA-Chat Bot-
 QA Chat Bot Using Google Gemini 
 Hi Folks, have a build a QA Chat Bot using Google Gemini and streamlit. 
 Code for the same in below lines 
